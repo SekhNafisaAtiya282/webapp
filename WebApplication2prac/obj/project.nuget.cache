@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bw2qjfAaOzkWuaS6H0bigcrX/LzYjfDemOpFkVbjFsx0zdM2Qdxt4CP1q3ktg6pQ57cYrn+/2DOk/iRj5X3kGg==",
+  "success": true,
+  "projectFilePath": "D:\\WORK\\COGNI\\Trainer\\WebApplication2prac\\WebApplication2prac\\WebApplication2prac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sekhn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
